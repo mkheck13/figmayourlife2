@@ -17,3 +17,5 @@
 **Reviewer Name**: Darryl P 
 
 **Comments**: Great job Mike. I like how you made you webpage clear, simple, and to the point. I can easily navigate through the page. I like the background. Give a nautral-rustic feel to it. Only thing I see is a gramatical error in the accomplishment section. Other than that great job. Code looks good and easy to read!
+
+**Update**: Fixed the grammar issues.
