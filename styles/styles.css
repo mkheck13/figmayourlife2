@@ -32,10 +32,6 @@ body{
     color: white;
     background-color: rgba(0, 0, 0, 0.332);
 }
-.footcenter{
-    display: flex;
-    justify-content: center;
-}
 
 .card{
     color: white;
@@ -65,7 +61,8 @@ height: 220px;
 }
 
 .tattoopic{
-    margin-left: 100px;
+    width: 100%;
+    height: 67%;
 }
 
 .accompspace{
