@@ -17,6 +17,11 @@ body{
     margin-bottom: 5%;
 }
 
+.heroback{
+    background-color: rgba(0, 0, 0, 0.332);
+    margin-right: 7%;
+}
+
 .heroimg{
     display: flex;
     justify-content: center;
@@ -34,7 +39,7 @@ body{
 
 .card{
     color: white;
-    background-color: blue;
+    background-color: rgba(0, 0, 0, 0.745);
 }
 
 .cardcenter{
@@ -47,6 +52,23 @@ body{
 }
 
 .cardimage{
-    height: 100%;
-    
+    height: 100%;  
+}
+
+.accomptext{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.332);
+}
+
+.accompimage{
+height: 220px;
+}
+
+.tattoopic{
+    margin-left: 100px;
+}
+
+.accompspace{
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
