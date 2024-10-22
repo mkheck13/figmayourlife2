@@ -1,0 +1,52 @@
+body{
+    background-image: url(../assets/woodback.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.navtext{
+    background-color: rgba(0, 0, 0, 0.332);
+}
+
+.herotext{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.heroimg{
+    display: flex;
+    justify-content: center;
+    width: 35%;
+}
+
+.footback{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.332);
+}
+.footcenter{
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    color: white;
+    background-color: blue;
+}
+
+.cardcenter{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5%;
+}
+.buttoncenter{
+    margin-left: 20%;
+}
+
+.cardimage{
+    height: 100%;
+    
+}
